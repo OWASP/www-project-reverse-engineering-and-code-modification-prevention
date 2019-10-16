@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP reverse engineering and code modification prevention
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
