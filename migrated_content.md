@@ -58,12 +58,12 @@ auto-migrated: 1
 </ul>
 <h2 id="sub_projects">Sub-projects</h2>
 <h2 id="sub_projects">Sub-projects</h2>
-<p><em>RISK</em>: <a href="Technical_Risks_of_Reverse_Engineering_and_Unauthorized_Code_Modification" title="wikilink">Technical Risks of Reverse Engineering and Unauthorized Code Modification</a></p>
-<p><em>RISK</em>: <a href="Technical_Risks_of_Reverse_Engineering_and_Unauthorized_Code_Modification" title="wikilink">Technical Risks of Reverse Engineering and Unauthorized Code Modification</a></p>
+<p><em>RISK</em>: <a href="Technical_Risks_of_Reverse_Engineering_and_Unauthorized_Code_Modification" title=>Technical Risks of Reverse Engineering and Unauthorized Code Modification</a></p>
+<p><em>RISK</em>: <a href="Technical_Risks_of_Reverse_Engineering_and_Unauthorized_Code_Modification" title=>Technical Risks of Reverse Engineering and Unauthorized Code Modification</a></p>
 <p>This sub-project helps organizations understand the various technical risks that they are exposed to when they host sensitive code in untrustworthy environments. It is useful to stakeholders that must decide how/if to mitigate these risks.</p>
 <p>This sub-project helps organizations understand the various technical risks that they are exposed to when they host sensitive code in untrustworthy environments. It is useful to stakeholders that must decide how/if to mitigate these risks.</p>
-<p><em>ARCHITECTURE</em>: <a href="Architectural_Principles_That_Prevent_Code_Modification_or_Reverse_Engineering" title="wikilink">Architectural Principles That Prevent Code Modification or Reverse Engineering</a></p>
-<p><em>ARCHITECTURE</em>: <a href="Architectural_Principles_That_Prevent_Code_Modification_or_Reverse_Engineering" title="wikilink">Architectural Principles That Prevent Code Modification or Reverse Engineering</a></p>
+<p><em>ARCHITECTURE</em>: <a href="Architectural_Principles_That_Prevent_Code_Modification_or_Reverse_Engineering" title=>Architectural Principles That Prevent Code Modification or Reverse Engineering</a></p>
+<p><em>ARCHITECTURE</em>: <a href="Architectural_Principles_That_Prevent_Code_Modification_or_Reverse_Engineering" title=>Architectural Principles That Prevent Code Modification or Reverse Engineering</a></p>
 <p>This sub-project helps security architects and designers understand the features of their application that should be included to prevent reverse engineering or code modification.</p>
 <p>This sub-project helps security architects and designers understand the features of their application that should be included to prevent reverse engineering or code modification.</p>
 <h2 id="related_projects">Related Projects</h2>
@@ -72,14 +72,14 @@ auto-migrated: 1
 <p>This project is associated with</p>
 <ul>
 <ul>
-<li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP_Mobile_Security_Project</a></li>
-<li><a href="OWASP_Mobile_Security_Project" title="wikilink">OWASP_Mobile_Security_Project</a></li>
-<li><a href="OWASP_AppSensor_Project" title="wikilink">OWASP_AppSensor_Project</a></li>
-<li><a href="OWASP_AppSensor_Project" title="wikilink">OWASP_AppSensor_Project</a></li>
-<li><a href="OWASP_iMAS_iOS_Mobile_Application_Security_Project" title="wikilink">OWASP_iMAS_iOS_Mobile_Application_Security_Project</a></li>
-<li><a href="OWASP_iMAS_iOS_Mobile_Application_Security_Project" title="wikilink">OWASP_iMAS_iOS_Mobile_Application_Security_Project</a></li>
-<li><a href="Mobile_Jailbreaking_Cheat_Sheet" title="wikilink">Mobile_Jailbreaking_Cheat_Sheet</a></li>
-<li><a href="Mobile_Jailbreaking_Cheat_Sheet" title="wikilink">Mobile_Jailbreaking_Cheat_Sheet</a></li>
+<li><a href="OWASP_Mobile_Security_Project" title=>OWASP_Mobile_Security_Project</a></li>
+<li><a href="OWASP_Mobile_Security_Project" title=>OWASP_Mobile_Security_Project</a></li>
+<li><a href="OWASP_AppSensor_Project" title=>OWASP_AppSensor_Project</a></li>
+<li><a href="OWASP_AppSensor_Project" title=>OWASP_AppSensor_Project</a></li>
+<li><a href="OWASP_iMAS_iOS_Mobile_Application_Security_Project" title=>OWASP_iMAS_iOS_Mobile_Application_Security_Project</a></li>
+<li><a href="OWASP_iMAS_iOS_Mobile_Application_Security_Project" title=>OWASP_iMAS_iOS_Mobile_Application_Security_Project</a></li>
+<li><a href="Mobile_Jailbreaking_Cheat_Sheet" title=>Mobile_Jailbreaking_Cheat_Sheet</a></li>
+<li><a href="Mobile_Jailbreaking_Cheat_Sheet" title=>Mobile_Jailbreaking_Cheat_Sheet</a></li>
 </ul></td>
 </ul></td>
 <ul>
@@ -91,11 +91,11 @@ auto-migrated: 1
 </ul>
 <h2 id="presentations">Presentations</h2>
 <ul>
-<li><a href="Media:OWASP_Mobile_App_Hacking_(AppSecUSA_2015)_Workshop_Feedback.pdf" title="wikilink">Media:OWASP Mobile App Hacking (AppSecUSA 2015) Workshop Feedback.pdf</a></li>
-<li><a href="Media:Consequences_of_a_Jailbroken_iDevice.pdf" title="wikilink">Media:Consequences_of_a_Jailbroken_iDevice.pdf</a></li>
-<li><a href="Media:Mobile_Risks_and_Solutions.pdf" title="wikilink">Media:Mobile Risks and Solutions.pdf</a></li>
-<li><a href="Media:OWASP_Mobile_App_Hacking_(AppSecUSA_2014)_Workshop_Content.pdf" title="wikilink">Media:OWASP Mobile App Hacking (AppSecUSA 2014) Workshop Content.pdf</a></li>
-<li><a href="Media:OWASP_Mobile_App_Hacking_(AppSecUSA_2014)_Feedback.pdf" title="wikilink">Media:OWASP Mobile App Hacking (AppSecUSA 2014) Feedback.pdf</a></li>
+<li><a href="/www-pdf-archive/OWASP_Mobile_App_Hacking_(AppSecUSA_2015)_Workshop_Feedback.pdf" title=>Media:OWASP Mobile App Hacking (AppSecUSA 2015) Workshop Feedback.pdf</a></li>
+<li><a href="/www-pdf-archive/Consequences_of_a_Jailbroken_iDevice.pdf" title=>/www-pdf-archive/Consequences_of_a_Jailbroken_iDevice.pdf</a></li>
+<li><a href="/www-pdf-archive/Mobile_Risks_and_Solutions.pdf" title=>Media:Mobile Risks and Solutions.pdf</a></li>
+<li><a href="/www-pdf-archive/OWASP_Mobile_App_Hacking_(AppSecUSA_2014)_Workshop_Content.pdf" title=>Media:OWASP Mobile App Hacking (AppSecUSA 2014) Workshop Content.pdf</a></li>
+<li><a href="/www-pdf-archive/OWASP_Mobile_App_Hacking_(AppSecUSA_2014)_Feedback.pdf" title=>Media:OWASP Mobile App Hacking (AppSecUSA 2014) Feedback.pdf</a></li>
 </ul>
 <h2 id="news_and_events">News and Events</h2>
 <ul>
@@ -133,7 +133,7 @@ auto-migrated: 1
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Builders](Category:OWASP_Builders "wikilink")
-[Category:OWASP_Defenders](Category:OWASP_Defenders "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Builders](Category:OWASP_Builders )
+[Category:OWASP_Defenders](Category:OWASP_Defenders )
+[Category:OWASP_Document](Category:OWASP_Document )
